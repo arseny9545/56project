@@ -514,7 +514,6 @@
 .u-section-2 .u-group-1 {
   width: 725px;
   min-height: 522px;
-  height: auto;
   margin: -734px calc(((100% - 1140px) / 2)) 0 auto;
 }
 
@@ -670,7 +669,6 @@
 @media (max-width: 1199px) {
   .u-section-2 .u-group-1 {
     margin-right: calc(((100% - 940px) / 2));
-    height: auto;
   }
 
   .u-section-2 .u-text-3 {
